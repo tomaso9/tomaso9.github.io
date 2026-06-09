@@ -116,19 +116,19 @@ analytics:
 author:
   name             : "Tomás Olivier"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Associate Professor of Public Administration at the Maxwell School of Citizenship and Public Affairs, Syracuse University."
+  bio              : "I am an Associate Professor of Public Administration at the Maxwell School of Citizenship & Public Affairs, Syracuse University."
   location         : "Syracuse, NY"
-  email            : "tolivier@syr.edu" 
+  email            : "tolivier@syr.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-       url: "mailto:tolivier@syr.edu"
+      url: "mailto:tolivier@syr.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://www.maxwell.syr.edu/directory/tom%C3%A1s-olivier"
-     - label: "GitHub"
+      url: "https://www.maxwell.syr.edu/directory/tom%C3%A1s-olivier"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/tomaso9"
+      url: "https://github.com/tomaso9"
     
 # Site Footer
 footer:

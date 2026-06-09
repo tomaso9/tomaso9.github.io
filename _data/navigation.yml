@@ -3,7 +3,7 @@ main:
   #- title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "CV"
-     url: /cv/
+     url: assets/files/Olivier_CV_2.19.26.pdf
    - title: "Research"
      url: /research/
    - title: "About"
